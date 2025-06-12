@@ -7,3 +7,14 @@ JavaScript challenges:
 ## How to Run
 1. Clone this repository.
 2. Open each JS file in a browser/Node.js and follow prompts.
+
+## Author
+ @sngige
+ samuel.ngige@student.moringaschool.com
+ https://github.com/sngige/Code-Challenge-1
+
+ ## license
+ Copyright © 2025 Samuel Ngige
+
+Permission is hereby granted, free of charge...
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
